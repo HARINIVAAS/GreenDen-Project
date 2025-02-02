@@ -1,4 +1,4 @@
-GreenDen 🌿
+Leafy Haven 🌿
 
 
 A responsive and modern website built with Tailwind CSS to promote eco-friendly living and sustainability.
